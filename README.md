@@ -7,11 +7,13 @@ This repository contains my completed work for CS255: System Analysis and Design
 ## Repository Contents
 
 ### DriverPass Project Documentation
-- BRD/ – Business Requirements Document
-- SDD/ – System Design Document
-- UML/ – UML Class Diagram & Use Case Diagram
+- CS255_Business_Requirement_Document.docx
+- CS255_System_Design_Document.docx
+- UML/DriverPass_UML.docx
+- UML/UML_Use_Case_Diagram.docx
 
-### Python Scripts (SourceCode/)
+
+### SourceCode/ - Python Scripts for CS255 programming exercises
 - menu_app.py – Menu-driven program with user interaction
 - calculator.py – Basic calculator supporting +, -, *, /
 - file_reader.py – Reads and displays text file contents
@@ -31,7 +33,7 @@ The project includes:
 - Security and data considerations
 
 ### UML Diagrams
-The UML Class Diagram and Use Case Diagram are located in the UML/ folder. They illustrate:
+The UML/ -UML Class Diagram and Use Case Diagram are located in the UML/ folder. They illustrate:
 - System actors (Student, Instructor, Admin)
 - Core system functions (scheduling, managing users, updating availability)
 - Class relationships (Appointment, Schedule, Instructor ownership, Admin management)
