@@ -65,5 +65,5 @@ All materials in this repository were created as part of the **CS255 coursework 
 **Krystal Brown**  
 Computer Science Major  
 Southern New Hampshire University  
-Email: your.email@example.com
+Email: krystal.brown6@snhu.conm
 
